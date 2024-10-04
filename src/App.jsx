@@ -17,7 +17,6 @@ function App() {
       <BrowserRouter>
         <Navebar />
 
-        <h1>cnvm,</h1>
         <Routes>
           <Route path="/" element={<Log/>}/>
           <Route path="/register" element={<Register/>}/>
