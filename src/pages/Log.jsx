@@ -11,6 +11,7 @@ export default function Log() {
       className="d-flex justify-content-center align-items-center  p-3 mb-5 rounded  col-8-lg"
       style={{ backgroundColor: "#EEEEEE" }}
     >
+      <h1>git hub added contnt</h1>
       <div className="d-flex justify-content-center shadow-lg">
         <div className="col-4-lg">
           <form action="" className="px-5 bg-white py-4">
